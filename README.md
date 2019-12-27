@@ -1,5 +1,11 @@
-### `yarn` or `npm i`
+![](demo.gif)
 
-### `yarn start` or `npm start`
+<h3 align="center">
+  Install and run
+</h3>
 
-### `json-server --watch server.json --port 3333 `
+`npm i` or `yarn`
+
+`npm start` or `yarn start`
+
+`json-server --watch server.json --port 3333 `
